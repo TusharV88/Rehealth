@@ -1,1 +1,0 @@
-this folder is used store image train data.
