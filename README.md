@@ -8,3 +8,7 @@ This is basically a desktop app with made up of python and Tkinter GUI which hel
 ## Deploy Link
 
 https://dev.azure.com/tushaarv88/Rehealth/_git/Rehealth
+
+## Demo Link
+
+https://drive.google.com/file/d/1N4HZDjj5Zekc8oVCuP9Witz05x0dPh5b/view?usp=sharing
